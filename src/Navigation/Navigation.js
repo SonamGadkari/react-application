@@ -1,5 +1,4 @@
 import React from 'react';
-import foodpic from '../images/main-page-image.jpg';
 import './Navigation.css'
 
 const Navigation = () => {

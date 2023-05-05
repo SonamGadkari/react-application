@@ -12,7 +12,10 @@ body {
 }
 
 .content {
-    color: black
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: sans-serif; 
 }
 
 header {
@@ -43,7 +46,7 @@ header li a {
 .transparent {
     height: 200px;
     background: #FF7A59;
-    opacity: .5;
+    opacity: .6;
     margin: auto;
     width: 50%;
     padding: 10px;
