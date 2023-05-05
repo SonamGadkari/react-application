@@ -17,7 +17,7 @@ const Navigation = () => {
                 </ul> 
             </nav>            
     </header>
-    <div>
+    <div className='transparent'>
         <p className='content'>Order from your favourite menu and get it delivered</p>
     </div>
     </>

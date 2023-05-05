@@ -12,11 +12,11 @@ body {
 }
 
 .content {
-    color: white;
+    color: black
 }
 
 header {
-    background-color: white;
+    background-color: #8B0000;
     position: fixed;
     top: 0;
     left: 0;
@@ -36,6 +36,15 @@ header li {
 }
 
 header li a {
-    color: black;
+    color: white;
     text-decoration: none;
+}
+
+.transparent {
+    height: 200px;
+    background: #FF7A59;
+    opacity: .5;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
 }
