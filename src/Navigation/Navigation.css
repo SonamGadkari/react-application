@@ -2,21 +2,6 @@ header img {
     height: 80px;
     margin-left: 40px;
 }
-body {
-    height: 125vh;
-    background-image: url("../images/main-page-image.jpg");
-    background-size: cover;
-    font-family: sans-serif;
-    margin-top: 80px;
-    padding: 30px;
-}
-
-.content {
-    color: black;
-    font-size: 30px;
-    font-weight: bold;
-    font-family: sans-serif; 
-}
 
 header {
     background-color: #8B0000;
@@ -41,13 +26,4 @@ header li {
 header li a {
     color: white;
     text-decoration: none;
-}
-
-.transparent {
-    height: 200px;
-    background: #FF7A59;
-    opacity: .6;
-    margin: auto;
-    width: 50%;
-    padding: 10px;
 }

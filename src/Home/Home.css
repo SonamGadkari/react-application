@@ -1,0 +1,16 @@
+.transparent {  
+    background: #FF7A59;
+    opacity: .6;
+    width: 50%;
+    padding: 10px;
+    margin: 220px;   
+}
+
+.content {
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: sans-serif; 
+}
+
+
