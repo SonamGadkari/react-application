@@ -10,14 +10,13 @@ const Navigation = () => {
             <nav>
                 <ul>                  
                       <li><Link to="/">Home</Link></li>
-                      <li><Link to="/menu">Menu</Link></li>                   
-                      <li><Link to="/about">About</Link></li>
-                      <li><Link to="/contact">Contact us</Link></li>
-                      <li><Link to="/cart">Cart</Link></li>
+                      <li><Link to="/menu">Menu</Link></li>       
+                      <li><Link to="/cart">Cart</Link></li>                                  
+                      <li><Link to="/contact">Contact us</Link></li>   
+                      <li><Link to="/about">About me</Link></li>              
                 </ul> 
             </nav>            
-    </header> 
-   
+    </header>      
     </>
   );
 }

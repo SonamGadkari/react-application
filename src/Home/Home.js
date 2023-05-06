@@ -1,13 +1,12 @@
 import Navigation from '../Navigation/Navigation';
+import foodImage from '../images/main-page-image.jpg';
 
 function Home() {
   return (
-    <div style={{ 
-      backgroundImage: `url(../images/main-page-image.jpg)` 
-        }}>                    
-      {/*<div className='transparent'>
-            <p className='content'>Order from your favourite menu and get it delivered</p>
-      </div>            */}
+    <div>       
+       <div className="main-image">
+        <img src={foodImage} alt='A table full of delicious food!' />
+       </div> 
     </div>
   );
 }
