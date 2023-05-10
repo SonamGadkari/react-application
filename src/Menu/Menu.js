@@ -1,13 +1,11 @@
-import React from 'react';
-import './Menu.css';
+import AvailableMeals from './AvailableMeals';
 
-const Menu = () =>{
-
-    return (
-        <>
-        Menu
-        </>
-    )
-}
+const Menu = () => {
+  return (
+    <>   
+      <AvailableMeals />
+    </>
+  );
+};
 
 export default Menu;
